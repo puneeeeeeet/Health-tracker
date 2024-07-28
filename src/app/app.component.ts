@@ -11,5 +11,5 @@ import { WorkoutTableComponent } from './workout-table/workout-table.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'health-challenge-tracker';
+  title = 'Health Challenge Tracker';
 }
